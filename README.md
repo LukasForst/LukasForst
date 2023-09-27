@@ -1,8 +1,8 @@
 # Hi 👋
 I'm [Lukas](https://lukas.forst.dev) - a senior software engineer passionate about building useful stuff.
 
-My `day_job` is designing & implementing edge computing platform for a CDN. So I make Wasm go brrrr
-under 40 Tbps of traffic. I'm essentially modifying Nginx code to be able to execute Wasm __fast__.
+My `day_job` is designing & implementing edge computing platform for a CDN. I make Wasm go brrrr
+under 50 Tbps of traffic on 1.5k+ servers. I'm essentially modifying Nginx code to be able to execute Wasm __fast__.
 Using Rust, C and Lua.
 
 For the past six years of my professional experience, I have worked mainly with
