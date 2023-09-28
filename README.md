@@ -42,8 +42,7 @@ Python and C#.
 
 I firmly believe that we should make the internet more secure & private, and that's why I help people
 from [StratosphereIPS](https://www.stratosphereips.org/) with their
-[Slips](https://github.com/stratosphereips/StratosphereLinuxIPS), and I built
-[Fides](https://github.com/LukasForst/fides).
+[Slips](https://github.com/stratosphereips/StratosphereLinuxIPS).
 I'm also Teaching Assistant at [FEE CTU](https://fel.cvut.cz/) helping with master's coures
 [Introduction to Cybersecurity](https://cw.fel.cvut.cz/b231/courses/bsy/start).
 
