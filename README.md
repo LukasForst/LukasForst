@@ -45,6 +45,6 @@ from [StratosphereIPS](https://www.stratosphereips.org/) with their
 [Slips](https://github.com/stratosphereips/StratosphereLinuxIPS), and I built
 [Fides](https://github.com/LukasForst/fides).
 I'm also Teaching Assistant at [FEE CTU](https://fel.cvut.cz/) helping with master's coures
-Introduction to Cybersecurity.
+[Introduction to Cybersecurity](https://cw.fel.cvut.cz/b231/courses/bsy/start).
 
 Feel free to contact me if you want to talk! I live in UTC+1 time zone.
