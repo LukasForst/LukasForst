@@ -18,7 +18,7 @@ Now I'm trying to find time to simplify working with multiple calendars at once 
 [Camerge](https://github.com/LukasForst/camerge).
 
 In the past years, I worked in [Wire](https://wire.com), where I lead a team working on
-Wire for Teams and another working on modular [MLS](https://en.wikipedia.org/wiki/Messaging_Layer_Security)
+[Wire for Teams](https://github.com/wireapp/wire-for-teams) and another working on modular [MLS](https://en.wikipedia.org/wiki/Messaging_Layer_Security)
 backend. I also helped to bring to life many Wire's libraries such as
 [Cryptobox4j](https://github.com/wireapp/cryptobox4j), [Xenon](https://github.com/wireapp/xenon),
 [Helium](https://github.com/wireapp/helium), [Lithium](https://github.com/wireapp/lithium),
