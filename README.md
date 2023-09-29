@@ -25,8 +25,8 @@ backend. I also helped to bring to life many Wire's libraries such as
 [Roman](https://github.com/wireapp/roman), multiplatform [Kalium](https://github.com/wireapp/kalium)
 and a lot of Wire integrations created in [Kotlin](https://github.com/wireapp/poll-bot),
 [Java](https://github.com/wireapp/echo-bot), [Python](https://github.com/wireapp/charon), and even
-[Deno](https://github.com/wireapp/admin-broadcast).
-I was also managing two K8s clusters and do a lot of DevOps, automating everything with GitHub Actions,
+[Deno](https://github.com/wireapp/admin-broadcast). Last but not least, I was also working on our 
+billing system and managing two K8s clusters and do a lot of DevOps, automating everything with GitHub Actions,
 Docker, and Helm.
 
 I co-founded [Mild Blue](https://mild.blue), where we're building cool things based on the latest
