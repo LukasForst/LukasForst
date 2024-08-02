@@ -1,5 +1,7 @@
 # Hi 👋
-I'm [Lukas](https://lukas.forst.dev) - a senior software engineer passionate about building useful stuff. Currently on a mission to make your infrastructure more secure with [Recon Wave](https://reconwave.com/).
+I'm [Lukas](https://lukas.forst.dev) - a senior software engineer passionate about building useful stuff. 
+
+Currently on a mission to make your infrastructure more secure with [Recon Wave](https://reconwave.com/).
 
 For the past seven years of my professional experience, I have worked with whole range of languages,
 from C to Typescript. Nowadays I mostly enjoy working with Kotlin and Rust.
