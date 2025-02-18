@@ -18,13 +18,13 @@ Experience:
      - Part of [StratosphereIPS](https://www.stratosphereips.org/) team.
 - [Mild Blue](https://mild.blue/)
      - Co-founded company and built first health care software utilizing AI algorithms.
-     - Mild Blue is now supplier to more than 80 hospitals and laboratories in Czechia, Slovakia and Croatia.
+     - Mild Blue is now supplier to more than 80 hospitals and laboratories in Czechia, Slovakia and Croatia with [slp.blue](https://slp.blue/).
 - [Wire](https://wire.com/)
-      - Created many integrations into Wire platform.
-      - I was taking care of billing platform and worked on cryptography libraries such as [cryptobox4j](https://github.com/wireapp/cryptobox4j).
-      - Lead engineering team integrating Wire into Microsoft ecosystem.
+     - Created many integrations into Wire platform.
+     - I was taking care of billing platform and worked on cryptography libraries such as [cryptobox4j](https://github.com/wireapp/cryptobox4j).
+     - Lead engineering team integrating Wire into Microsoft ecosystem.
 - [Blindspot](https://blindspot.ai/)
-      - Worked on end-to-end solutions utilizing mathematical optimization algorithms.
+     - Worked on end-to-end solutions utilizing mathematical optimization algorithms.
 
 During the time I created some small libraries such as
 [Katlib](https://github.com/LukasForst/katlib), [Exposed Upsert](https://github.com/LukasForst/exposed-upsert), [Ktor Plugins](https://github.com/LukasForst/ktor-plugins) and [Camerge](https://github.com/LukasForst/camerge).
