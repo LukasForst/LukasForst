@@ -7,7 +7,7 @@ For the past seven years of my professional experience, I built lot of cool thin
 
 Experience:
 - [Recon Wave](https://reconwave.com/) - co-founded company building advanced attack surface monitoring.
-- [BetterStack](https://betterstack.com/) - designed and built edge-based infrastructure for running uptime checks across the globe on ~30 different servers and locations, handling more than 7k uptime checks per second.
+- [Better Stack](https://betterstack.com/) - designed and built edge-based infrastructure for running uptime checks across the globe on ~30 different servers and locations, handling more than 7k uptime checks per second.
 - [CDN77](https://www.cdn77.com/) - designed and built [edge computing platform](https://www.cdn77.com/blog/empowering-control-with-edge-computing) from scratch, handling 50 Tbps of traffic on 2k+ servers.
 - [FEE CTU](https://fel.cvut.cz/) - teaching assistant in master's coures [Introduction to Cybersecurity](https://cybersecurity.bsy.fel.cvut.cz) - teaching more than [1.5000 students](https://www.aic.fel.cvut.cz/news/cybersecurity-mooc), part of [StratosphereIPS](https://www.stratosphereips.org/) team.
 - [Mild Blue](https://mild.blue/) - co-founded company and built first health care software utilizing AI algorithms, Mild Blue is now supplier to more than 80 hospitals and laboratories in Czechia, Slovakia and Croatia.
