@@ -14,7 +14,7 @@ Experience:
      - Designed and built [edge computing platform](https://www.cdn77.com/blog/empowering-control-with-edge-computing) from scratch, handling 50 Tbps of traffic on 2k+ servers.
 - [FEE CTU](https://fel.cvut.cz/)
      - Teaching assistant in master's coures [Introduction to Cybersecurity](https://cybersecurity.bsy.fel.cvut.cz).
-     - Our 2024 class had more than [1.5000 students](https://www.aic.fel.cvut.cz/news/cybersecurity-mooc).
+     - Our 2024 class had more than [1.500 students from over 80 countries](https://www.aic.fel.cvut.cz/news/cybersecurity-mooc).
      - Part of [StratosphereIPS](https://www.stratosphereips.org/) team.
 - [Mild Blue](https://mild.blue/)
      - Co-founded company and built first health care software utilizing AI algorithms.
