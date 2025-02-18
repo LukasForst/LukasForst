@@ -3,7 +3,9 @@ I'm [Lukas](https://lukas.forst.dev) - a senior software engineer passionate abo
 
 Currently on a mission to make your infrastructure more secure with [Recon Wave](https://reconwave.com/).
 
-For the past seven years of my professional experience, I built lot of cool things in different startups and co-founded two companies. Never stop building!
+For the past eight years of my professional experience, I built lot of cool things in different startups in different technologies. I'm trying to be tech-agnostic but with deep knowledge about cyber security. I co-founded two companies. 
+
+Never stop building!
 
 Experience:
 - [Recon Wave](https://reconwave.com/)
