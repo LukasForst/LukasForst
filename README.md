@@ -16,7 +16,7 @@ Experience:
      - Designed and built [edge computing platform](https://www.cdn77.com/blog/empowering-control-with-edge-computing) from scratch, handling 50 Tbps of traffic on 2k+ servers.
 - [FEE CTU](https://fel.cvut.cz/)
      - Teacher at master's coures [Introduction to Cybersecurity](https://cybersecurity.bsy.fel.cvut.cz).
-     - My classes are available online [Web Attacks](https://www.youtube.com/watch?v=oeOXvdufPgk&list=PLQL6z4JeTTQk_z3vwSIvn6wIHMeNQFU3d) and [Advanced Web Attacks](https://youtu.be/KiNLU0lOWbU?si=_nMlo5_WEESE_2HN&t=6128).
+     - My classes are available online - [Web Attacks](https://www.youtube.com/watch?v=oeOXvdufPgk&list=PLQL6z4JeTTQk_z3vwSIvn6wIHMeNQFU3d) and [Advanced Web Attacks](https://youtu.be/KiNLU0lOWbU?si=_nMlo5_WEESE_2HN&t=6128).
      - Our 2024 class had more than [1.500 students from over 80 countries](https://www.aic.fel.cvut.cz/news/cybersecurity-mooc).
      - Part of [StratosphereIPS](https://www.stratosphereips.org/) team.
 - [Mild Blue](https://mild.blue/)
