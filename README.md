@@ -10,6 +10,7 @@ Never stop building!
 Experience:
 - [Recon Wave](https://reconwave.com/)
      - Co-founded company building advanced attack surface monitoring.
+     - I talked about our dataset on BSides Prague 2025 - [recording](https://www.youtube.com/watch?v=hxiOeAyjGuQ).
 - [Better Stack](https://betterstack.com/)
      - Designed and built edge-based infrastructure for running uptime checks across the globe on ~30 different servers and locations, handling more than 7k uptime checks per second.
 - [CDN77](https://www.cdn77.com/)
